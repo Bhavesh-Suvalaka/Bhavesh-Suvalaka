@@ -16,4 +16,8 @@ Here's a glimpse into the playgrounds where I've wielded my expertise:
 If you are looking for mentor and If you feel I can help, feel
 free to reach out to me on [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bhavesh-suvalaka/)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavesh-suvalaka&theme=solarized-dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh-suvalaka&layout=pie)](https://github.com/bhavesh-suvalaka/github-readme-stats)
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]()
